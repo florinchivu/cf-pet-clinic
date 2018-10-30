@@ -1,4 +1,4 @@
-package cfpetclinic.model;
+package chivu.florin.cfpetclinic.model;
 
 public class PetType {
 
