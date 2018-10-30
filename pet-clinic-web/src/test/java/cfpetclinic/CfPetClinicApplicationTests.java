@@ -1,4 +1,4 @@
-package chivu.florin.cfpetclinic;
+package cfpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

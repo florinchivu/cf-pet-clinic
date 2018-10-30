@@ -1,4 +1,4 @@
-package chivu.florin.cfpetclinic.model;
+package cfpetclinic.model;
 
 public class Person {
 

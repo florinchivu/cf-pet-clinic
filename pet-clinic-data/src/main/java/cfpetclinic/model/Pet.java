@@ -1,4 +1,4 @@
-package chivu.florin.cfpetclinic.model;
+package cfpetclinic.model;
 
 import java.time.LocalDate;
 
